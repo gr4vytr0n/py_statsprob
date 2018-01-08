@@ -7,3 +7,4 @@
       Calculus (e.g., calculating integrals and derivatives)
     ✓ Programming (e.g., basic experience with any programming language)
       Linear algebra (e.g., vectors and matrices)
+      
